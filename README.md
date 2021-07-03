@@ -19,8 +19,6 @@
   
 ![Ralf's GitHub stats](https://github-readme-stats.vercel.app/api?username=ralfprezia&show_icons=true)
 
-  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ralfprezia)](https://github.com/ralfprezia/github-readme-stats)  
  
 </p>
 
