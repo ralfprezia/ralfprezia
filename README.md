@@ -1,7 +1,7 @@
 ### Hellooo! 👋
 
  Welcome to my profile
- <img src"https://image.flaticon.com/icons/png/512/174/174857.png"/><a class="url" href="https://www.linkedin.com/in/ralf-prezia-6a38181a3/">Linkedin</a>
+ <li><a class="url" href="https://www.linkedin.com/in/ralf-prezia-6a38181a3/"><img src"https://image.flaticon.com/icons/png/512/174/174857.png"/>Linkedin</a></li>
  <a>
 
 <!--
