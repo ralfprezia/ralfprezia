@@ -6,7 +6,7 @@
  <link>
  <a class="url" href="https://www.linkedin.com/in/ralf-prezia-6a38181a3/">Linkedin</a>
 </link>
-</br>- I’m currently learning ...
+</br>
 
 
 <!--
