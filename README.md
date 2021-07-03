@@ -9,7 +9,7 @@
 <p align="left">
 <li>
   <link>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/ralf-prezia-6a38181a3/" target="blank"><img align="center"  alt="https://www.linkedin.com/in/ralf-prezia-6a38181a3/" height="30" width="40" />
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/ralf-prezia-6a38181a3/" target="blank">Linkedin<img align="center"  alt="linkedin" height="30" width="40" />
   </a>
   </li>
 </p>
