@@ -24,7 +24,8 @@
 
 <h3> Main Languages ​​and Tools </h3>
 
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+<img src="{https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black}" />
+
 
 <!--
 **ralfprezia/ralfprezia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
