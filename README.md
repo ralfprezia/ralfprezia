@@ -24,6 +24,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralfprezi)](https://github.com/ralfprezia/github-readme-stats)
 </p>
+
 </br>
 
 [![Ralf's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ralfprezia)](https://github.com/ralfprezia/github-readme-stats)
