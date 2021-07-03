@@ -2,7 +2,7 @@
 
  Welcome to my profile
  
-<a class="url" href="https://www.linkedin.com/in/ralf-prezia-6a38181a3/"><img src="https://iconarchive.com/download/i54049/danleech/simple/linkedin.ico" ![](./pic/pic1_50.png =100x100)/></a>
+<a class="url" href="https://www.linkedin.com/in/ralf-prezia-6a38181a3/"></a>
 
 
 <!--
