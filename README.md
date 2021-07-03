@@ -14,10 +14,10 @@
   </li>
   <li>
     <a class="url" href="https://api.whatsapp.com/send?phone=5535992446440/" img> 
-      Linkedin
+      Whatsapp
     </a>
   </li>
-  <li> https://api.whatsapp.com/send?phone=5535992446440/</li>
+  
    
  
 </p>
