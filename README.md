@@ -1,7 +1,7 @@
 ### Hellooo! 👋
 
  Welcome to my profile
- <img src="https://cdn2.iconfinder.com/data/icons/social-media-with-original-colors/256/icon-linkedin.png" style="width:30px;"/>
+ <img src="https://cdn2.iconfinder.com/data/icons/social-media-with-original-colors/256/icon-linkedin.png" style="width:10px;"/>
  <li><a class="url" href="https://www.linkedin.com/in/ralf-prezia-6a38181a3/">Linkedin</a></li>
  <a>
 
