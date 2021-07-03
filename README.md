@@ -22,7 +22,7 @@
 
 <h3 align="left">Main Languages and Tools:</h3>
 
-[![Ralf Prezia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ralfprezia)](https://github.com/ralfprezia/github-readme-stats)
+[Ralf Prezia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ralfprezia)](https://github.com/ralfprezia/github-readme-stats)
 
 
 
