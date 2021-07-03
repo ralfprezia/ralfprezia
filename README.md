@@ -2,7 +2,7 @@
 
  Welcome to my profile
  
-<a class="url" href="https://www.linkedin.com/in/ralf-prezia-6a38181a3/"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsundartechno.com%2F&psig=AOvVaw2z9BJOozZOaK9X0ntxSCuN&ust=1625431446166000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCJDv_ZHix_ECFQAAAAAdAAAAABAh"/></a>
+<a class="url" href="https://www.linkedin.com/in/ralf-prezia-6a38181a3/"><img src="https://iconarchive.com/download/i54049/danleech/simple/linkedin.ico"/></a>
 
 
 <!--
