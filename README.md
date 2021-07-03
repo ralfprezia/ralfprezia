@@ -12,7 +12,7 @@
       Linkedin
     </a>
   </li>
-  <li> <a (https://api.whatsapp.com/send?phone=5535992446440/) target="blank">(35)99244-6440</a></li>
+  <li> <https://api.whatsapp.com/send?phone=5535992446440/ target="blank">(35)99244-6440</a></li>
    
  
 </p>
