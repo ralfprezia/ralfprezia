@@ -7,6 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <li>
+    https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
     <a class="url" href="https://www.linkedin.com/in/ralf-prezia-6a38181a3/" img> 
       Linkedin
     </a>
