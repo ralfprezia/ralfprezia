@@ -4,14 +4,14 @@
 
 - 📫 How to reach me **ralfprezia@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <li>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <li align="center">
     <a class="url" href="https://www.linkedin.com/in/ralf-prezia-6a38181a3/" img> 
       Linkedin
     </a>
   </li>
-  <li>
+  <li align="center">
     <a class="url" href="https://api.whatsapp.com/send?phone=5535992446440/" img> 
       Whatsapp
     </a>
@@ -19,8 +19,8 @@
   
   </br>
   
-<h3> Main Languages </h3>
-<span>
+<h3 align="center"> Main Languages </h3>
+<span align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -36,8 +36,8 @@
 
 </br>
 
-<h3> 🚀 Frameworks </h3>
-<span>
+<h3 align="center"> 🚀 Frameworks </h3>
+<span align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </span>
 
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white" />
   
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
