@@ -12,7 +12,7 @@
       Linkedin
     </a>
   </li>
-  <li> <a class="url" href"https://api.whatsapp.com/send?phone=553592446440">(35)992446550</a></li>
+  <li> <a href"https://api.whatsapp.com/send?phone=5535992446440" target="blank">(35)992446550</a></li>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
