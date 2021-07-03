@@ -20,8 +20,6 @@
 
 ![Ralf's GitHub stats](https://github-readme-stats.vercel.app/api?username=ralfprezia&show_icons=true&theme=tokyonight)
 
-<h3 align="left">Main Languages and Tools:</h3>
-
 </p>
 
 <!--
