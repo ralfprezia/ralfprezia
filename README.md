@@ -2,6 +2,9 @@
 <h1 align="center">Welcome to my profile 👋</h1>
 <h3 align="center">Front-end developer Jr</h3>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ralfprezia)](https://github.com/ralfprezia/github-readme-stats)
+
+
 
 - 📫 How to reach me **ralfprezia@gmail.com**
 
