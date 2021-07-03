@@ -12,11 +12,6 @@
       Linkedin
     </a>
   </li>
-<li>
-  <link>
-  <a href="https://www.linkedin.com/in/ralf-prezia-6a38181a3/" target="blank">Linkedin<img align="center"  alt="#" height="30" width="40" />
-  </a>
-  </li>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
