@@ -20,7 +20,10 @@
 
 ![Ralf's GitHub stats](https://github-readme-stats.vercel.app/api?username=ralfprezia&show_icons=true&theme=tokyonight)
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Main Languages and Tools:</h3>
+
+[![ralfprezia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ralfprezia)](https://github.com/ralfprezia/github-readme-stats)
+
 
 
 
