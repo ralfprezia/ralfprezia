@@ -24,6 +24,8 @@
 
 [![Ralf's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ralfprezia)](https://github.com/ralfprezia/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ralfprezia)](https://github.com/anuraghazra/github-readme-stats)
+
 </p>
 
 
