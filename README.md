@@ -2,7 +2,11 @@
 
  Welcome to my profile
  
-<link><a class="url" href="https://www.linkedin.com/in/ralf-prezia-6a38181a3/">Linkedin</a></link>
+<li>
+ <link>
+ <a class="url" href="https://www.linkedin.com/in/ralf-prezia-6a38181a3/">Linkedin</a>
+</link>
+- 🌱 I’m currently learning ...
 
 
 <!--
