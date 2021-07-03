@@ -24,7 +24,7 @@
 
 <h3> Main Languages ​​and Tools </h3>
 
-<img src="{https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black}" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 
 <!--
