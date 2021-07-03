@@ -1,8 +1,10 @@
 ### Hellooo! 👋
-
- Welcome to my profile
- <h1 align="center">Hi 👋, I'm Ralf Prezia</h1>
+<h1 align="center">Hi 👋, I'm Ralf Prezia</h1>
 <h3 align="center">Front-end developer Jr</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ralprezia&label=Profile%20views&color=0e75b6&style=flat" alt="ralprezia" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ralprezia" alt="ralprezia" /></a> </p>
 
 - 📫 How to reach me **ralfprezia@gmail.com**
 
@@ -18,6 +20,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ralprezia&show_icons=true&locale=en&layout=compact" alt="ralprezia" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ralprezia&show_icons=true&locale=en" alt="ralprezia" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ralprezia&" alt="ralprezia" /></p>
 
 
 <!--
