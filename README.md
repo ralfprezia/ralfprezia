@@ -5,7 +5,7 @@
 - 📫 How to reach me **ralfprezia@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
   <li>
     <a class="url" href="https://www.linkedin.com/in/ralf-prezia-6a38181a3/" img> 
       Linkedin
