@@ -23,7 +23,7 @@
   <h3 align="center">Connect with me:</h3>
   
   <p align="left">
-    <li align="center" decoration="none">
+    <li align="center">
       <a class="url" href="https://www.linkedin.com/in/ralf-prezia-6a38181a3/" img> 
         Linkedin
       </a>
