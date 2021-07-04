@@ -13,6 +13,14 @@
   </div>
 </br>
 
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralfprezia&layout=compact)](https://github.com/ralfprezia/github-readme-stats)
+
+</div>
+
+
+
 <div  align="center">
   
 - 📫 How to reach me **ralfprezia@gmail.com**
@@ -62,13 +70,6 @@
 </br>
 
 </br>
-
-
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralfprezia&layout=compact)](https://github.com/ralfprezia/github-readme-stats)
-
-</div>
 
 
 <div align="center">
