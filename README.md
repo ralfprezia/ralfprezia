@@ -4,7 +4,7 @@
 
 
 
-  <h3 align="center"> Main Languages </h3>
+  <h3> Main Languages </h3>
 
   <span>
   
