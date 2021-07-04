@@ -1,4 +1,4 @@
-### Hellooo!
+<h2 align="center">Helloooooo!</h1>
 <h1 align="center">Welcome to my profile 👋</h1>
 <h3 align="center">Front-end Developer Jr</h3>
 
