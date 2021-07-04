@@ -2,7 +2,7 @@
 <h1 align="center">Welcome to my profile 👋</h1>
 <h3 align="center">Front-end Developer Jr</h3>
 
-<h1 align="center">- 📫 How to reach me **ralfprezia@gmail.com**</h1>
+- 📫 How to reach me **ralfprezia@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
