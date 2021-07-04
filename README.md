@@ -28,7 +28,7 @@
         Linkedin
       </a>
     </li>
-    <li>
+    <li align="center">
       <a class="url" href="https://api.whatsapp.com/send?phone=5535992446440/" img> 
         Whatsapp
       </a>
