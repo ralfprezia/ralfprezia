@@ -79,6 +79,8 @@
 
 </div>
 
+<footer background="blue"> Teste</footer>
+
 
 
 <!--
