@@ -15,7 +15,7 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralfprezia&layout=compact&theme=radical)](https://github.com/ralfprezia/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralfprezia&layout=compact&theme=tokyonight)](https://github.com/ralfprezia/github-readme-stats)
   
 
 </div>
