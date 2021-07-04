@@ -13,7 +13,7 @@
   </div>
 </br>
 
-<div align="center">
+<div align="center" bg_color="#15202F">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralfprezia&layout=compact)](https://github.com/ralfprezia/github-readme-stats)
 
