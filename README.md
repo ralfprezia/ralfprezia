@@ -79,11 +79,7 @@
 
 </div>
 
-<a name="myfootnote1">1</a>
-: Footnote content goes here
-Em seguida, referencie-o em algum outro local do documento como este
 
-<sup>[1](#myfootnote1)</sup>
 
 
 
