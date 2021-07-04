@@ -17,7 +17,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralfprezia&layout=compact)](https://github.com/ralfprezia/github-readme-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralfprezia&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralfprezia&show_icons=true&theme=drácula)
 ](https://github.com/ralfprezia/github-readme-stats)
   
   ? Username = anuraghazra & show_icons = true & theme = radical )
