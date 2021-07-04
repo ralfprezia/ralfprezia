@@ -65,15 +65,15 @@
 
 
 <div align="center">
-  
-![Ralf's GitHub stats](https://github-readme-stats.vercel.app/api?username=ralfprezia&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralfprezia&layout=compact)](https://github.com/ralfprezia/github-readme-stats)
 
 </div>
 
 
 <div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralfprezia&layout=compact)](https://github.com/ralfprezia/github-readme-stats)
+  
+![Ralf's GitHub stats](https://github-readme-stats.vercel.app/api?username=ralfprezia&show_icons=true&theme=tokyonight)
 
 </div>
 
