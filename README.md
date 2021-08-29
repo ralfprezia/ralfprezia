@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my profile 👋</h1>
-<h3 align="center">Front-end Developer Jr</h3>
+<h3 align="center">Developer Jr</h3>
 
   <div align="center">
     <span>
@@ -65,6 +65,7 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
     <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>  
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   </span>
 </div>
 
