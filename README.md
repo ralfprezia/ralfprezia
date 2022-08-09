@@ -4,6 +4,7 @@
 <div align="center">
   <span>
    <img src="https://img.shields.io/badge/cypress-dashboard-brightgreen.svg"/>
+    </br>
   </span>
 </div>
 
