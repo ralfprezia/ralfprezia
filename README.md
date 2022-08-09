@@ -1,6 +1,12 @@
 <h1 align="center">Welcome to my profile 👋</h1>
 <h3 align="center">Analista de QA Jr</h3>
 
+<div align="center">
+  <span>
+   <img src="https://img.shields.io/badge/cypress-dashboard-brightgreen.svg"/>
+  </span>
+</div>
+
   <div align="center">
     <span>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
